@@ -19,17 +19,6 @@ This project demonstrates comprehensive analysis of Indian railway infrastructur
 - **Matplotlib & Seaborn** - Data visualization and insights presentation
 - **Jupyter Notebook** - Interactive analysis environment
 
-## Project Structure
-RailwayInfrastructureAnalysis/
-│
-├── Railways.csv # Original dataset
-├── railway_analysis.py # Main PySpark analysis script
-├── Railway_Infrastructure_Analysis.ipynb # Jupyter notebook version
-├── requirements.txt # Python dependencies
-├── visualizations/ # Generated charts and graphs
-├── insights/ # Analysis reports and findings
-└── README.md # Project documentation
-
 ## Dataset Description
 
 The dataset contains 50 years (1964-2014) of Indian railway infrastructure data tracking:
